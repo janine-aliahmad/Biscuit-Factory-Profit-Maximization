@@ -22,8 +22,5 @@ This project focuses on optimizing **profit maximization** for a **biscuit facto
    - Derived insights on how production parameters influence profitability.
 
 ## License
-This project was developed for educational purposes as part of an **AI Algorithms** course.
-
----
-Developed by **Janine** 🚀
+This project was developed for educational purposes as part of an **AI Algorithms** course with team mate Romain Paupe.
 
